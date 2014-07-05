@@ -15,8 +15,8 @@ How to integrate with Piston
 Building
 --------
 1. Install [Cargo](https://github.com/rust-lang/cargo) if not done already
-2. Open up a terminal emulator and type the following `commands`:
+2. Open a terminal emulator and type the following `commands`:
   1. Clone this repository: `git clone https://github.com/PistonDevelopers/scenegraph`
-  2. Move to the folder `git` has just downloaded: `cd piston-scenegraph`
+  2. Move to the folder git has just downloaded: `cd scenegraph`
   3. Build the library with cargo: `cargo build`
 
