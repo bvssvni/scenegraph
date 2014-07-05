@@ -1,5 +1,5 @@
 #![crate_id = "scenegraph"]
 #![deny(missing_doc)]
 
-//! Documentation goes here.
+//! A scenegraph for 2D and 3D graphics for the Piston game engine
 
