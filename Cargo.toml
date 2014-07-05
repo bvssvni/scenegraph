@@ -3,7 +3,7 @@
 name = "scenegraph"
 version = "0.0.0"
 readme = "README.md"
-authors = ["Your Name <your@email.com>"]
+authors = [ "UberLambda <paolo.jovon@gmail.com>" ]
 tags = []
 
 [[lib]]

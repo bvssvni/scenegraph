@@ -1,6 +1,9 @@
 .DS_Store
 *~
 *#
+*.bak
+*.old
+*.kate-swp
 *.o
 *.so
 *.swp
