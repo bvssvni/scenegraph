@@ -3,11 +3,11 @@
 name = "scenegraph"
 version = "0.0.0"
 readme = "README.md"
-authors = [ "UberLambda <paolo.jovon@gmail.com>" ]
+authors = [ "UberLambda <paolo.jovon@gmail.com>",
+            "bvssvni <bvssvni@gmail.com>" ]
 tags = []
 
 [[lib]]
 
 name = "scenegraph"
 path = "src/lib.rs"
-
