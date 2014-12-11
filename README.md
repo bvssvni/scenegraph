@@ -1,7 +1,7 @@
 scenegraph
 -----------------
 
-Notice: This project is not actively developed!*
+*Notice: This project is not actively developed!*
 
 A scenegraph for 2D and 3D graphics for the [Piston](https://github.com/PistonDevelopers/piston) game engine.
 
